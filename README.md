@@ -1,7 +1,5 @@
-👋 Hi, I’m @Penn-Lam  
-🧠 Builder of intelligent systems | AI Infra & Agent OS Enthusiast | Coffee & Code Addict  
-
----
+- 👋 Hi, I’m @Penn-Lam  
+- 🧠 Builder of intelligent systems | AI Infra & Agent OS Enthusiast | Coffee & Code Addict  
 
 - 👀 I’m interested in:
   - AI Agents, Large Language Models
